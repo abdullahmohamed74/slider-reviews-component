@@ -1,6 +1,6 @@
 # Slider component
 
-slider component to show some reviews
+slider component to show some reviews , using react
 
 ## Steps
 
